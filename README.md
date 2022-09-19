@@ -9,3 +9,5 @@ Once again, I was very rushed in submiting this solution so my code is not very 
 
 
 I truly had a ton of fun with this app (which is why I am working on it past the deadline haha), and I will be using it to find those food trucks. It is this combination of the joy I get from programming and from building an actually useful app that is the main reason I want to join PennLabs. It was great to meet a lot of you at PennLabs, and I will hopefully get to meet many more of you.
+
+*Update also fixed one more bug where the Position of the Adapter in the Recycler View was returning the wrong value to the Maps Activity. So I heavily recommend downloading the project at the Google Drive link for my complete code.
