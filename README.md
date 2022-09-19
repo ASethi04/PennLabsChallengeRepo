@@ -6,3 +6,6 @@ For the Penn Labs Technical Challenge, I completed the first part in its entiret
 
 Once again, I was very rushed in submiting this solution so my code is not very commented and there is a couple quick bug fixes that needed to happen. On the last screen with the map, both position markers had the tag for "food truck" when one of markers is the food truck location and the other one is the user's current location. Additionally, there is no back button to return to the main activity on the maps activity. Both of these were quick bug fixes that I Implemented.  To see the final, fully working product with the bugs fixed and the code commented, you can download and run the code at the following Google Drive link (I didn't want to put it on this GitHub because it is public):
 
+
+
+I truly had a ton of fun with this app (which is why I am working on it past the deadline haha), and I will be using it to find those food trucks. It is this combination of the joy I get from programming and from building an actually useful app that is the main reason I want to join PennLabs. It was great to meet a lot of you at PennLabs, and I will hopefully get to meet many more of you.
